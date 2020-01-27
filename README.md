@@ -13,10 +13,9 @@ https://github.com/jacksonleal/mysatisfaction-back-end-projeto-final
 DB: Banco de dados
 https://cloud.mongodb.com/v2/5e250fa7d5ec13a64df5a538#clusters
 #####################################################################
-Front-end App: heroku
-https://mysatisfaction-project-back-en.herokuapp.com/
-#####################################################################
-Index: Surge:
+Front-end Index: Surge:
 http://mysatisfaction.surge.sh/
 #####################################################################
-
+Back-end App: heroku
+https://mysatisfaction-project-back-en.herokuapp.com/
+#####################################################################
