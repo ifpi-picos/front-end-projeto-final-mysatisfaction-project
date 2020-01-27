@@ -13,5 +13,8 @@ btnInscreverse.addEventListener("click", function () {
 
 btnLogarNoSis.addEventListener("click", function () {
   event.preventDefault();
+  //
+
+  //
   window.location = "CriadorDeForms.html";
 });
